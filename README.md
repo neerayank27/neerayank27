@@ -1,8 +1,3 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/8xJZqZp/animated-tech-banner.gif" alt="Animated Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Neerayan Kiritharan 👋</h1>
 <h3 align="center">Always excited to learn, build, and collaborate!</h3>
 
