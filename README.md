@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🌱 I’m currently learning **Machine Learning, Python, React, and Data Science**
 - 📫 Reach me via: **nkneerayan27@gmail.com**
@@ -22,7 +22,7 @@
 
 ---
 
-### 🤝 Connect with me
+### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/neerayank27" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
@@ -31,11 +31,10 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ---
 
-### 🎨 **Frontend**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />&nbsp;&nbsp;
@@ -46,7 +45,6 @@
 
 ---
 
-### 🧠 **Backend & Servers**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />&nbsp;&nbsp;
@@ -55,7 +53,6 @@
 
 ---
 
-### 📊 **Machine Learning & Data Science**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" />&nbsp;&nbsp;
@@ -66,7 +63,6 @@
 
 ---
 
-### 🗄️ **Databases**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />&nbsp;&nbsp;
@@ -76,7 +72,6 @@
 
 ---
 
-### 🎨 **Design & UI/UX**
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" />&nbsp;&nbsp;
