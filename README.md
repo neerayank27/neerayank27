@@ -23,13 +23,20 @@
 ---
 
 ### Connect with me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/neerayank27" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
 </a>
 </p>
 
 ---
+
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i= html5, css3, javascript, react, tailwindcss,laravel,nextjs,tailwind,html,css,js,ts,java,,python,c,mysql,mongodb,firebase,tensorflow,github,vscode,figma" />
+</p>
+
 
 ## Languages & Tools
 <p align="center">
