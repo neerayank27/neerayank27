@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+AI+Enthusiast+%7C+Cloud+Explorer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A7BF4&center=true&vCenter=true&multiline=true&width=600&lines=Web+Dev+%7C+AI+Enthusiast+%7C+UI/UX+Designer;" alt="Typing SVG" />
 </p>
 
 
