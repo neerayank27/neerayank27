@@ -13,6 +13,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+AI+Enthusiast+%7C+Cloud+Explorer;" alt="Typing SVG" />
+</p>
+
+
 ### About Me
 
 - 🌱 I’m currently learning **Machine Learning, Python, React, and Data Science**
@@ -32,13 +37,6 @@
 ---
 
 ### Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i= html5, css3, javascript, react, tailwindcss,laravel,nextjs,tailwind,html,css,js,ts,java,,python,c,mysql,mongodb,firebase,tensorflow,github,vscode,figma" />
-</p>
-
-
-## Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />&nbsp;&nbsp;
