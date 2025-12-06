@@ -82,12 +82,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="45" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=NeerayanKiritharan&theme=algolia&margin-w=10&margin-h=10&row=1&column=6" />
-</p>
-
----
