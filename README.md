@@ -2,8 +2,8 @@
 <h3 align="center">Always excited to learn, build, and collaborate!</h3>
 
 <p align="center">
-  <b> Data Science Student | Web Dev | UI/UX | Software Engineering Learner</b><br>
-  <b>Future Machine Learning Engineer</b>
+  <b> Data Science Graduate | AI/ML </b><br>
+  <b> Machine Learning Engineer</b>
 </p>
 
 ---
